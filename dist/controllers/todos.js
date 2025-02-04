@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.TodoController = void 0;
-const todo_1 = require("../models/todo");
+const todo_1 = require("../models/todos");
 class todoController {
     constructor() {
         this.todos = [];
